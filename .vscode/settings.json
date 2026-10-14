@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Alejandro\\Desktop\\java\\biblioteca_progiii.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
